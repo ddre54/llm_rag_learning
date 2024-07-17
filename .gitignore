@@ -1,0 +1,9 @@
+# Ignore .env file with secrets
+.env
+
+# Youtube generated transcript files
+youtube_v_*.txt
+
+# Jupyter Notebook checkpoints directory
+.ipynb_checkpoints
+

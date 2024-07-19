@@ -83,6 +83,10 @@ Run Voila:
 voila
 ```
 
+# Projects
+
+- [Youtube video to transcript to RAG on LLM using OpenAI and Pinecone - Tutorial](youtube-videos-rag.ipynb)
+
 # Resources/Credits:
 
 - [Building a RAG application from scratch using Python, LangChain, and the OpenAI API](https://www.youtube.com/watch?v=BrsocJb-fAo)

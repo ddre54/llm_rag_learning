@@ -86,6 +86,7 @@ voila
 # Projects
 
 - [Youtube video to transcript to RAG on LLM using OpenAI and Pinecone - Tutorial](youtube-videos-rag.ipynb)
+- [Youtube video to transcript to RAG on LLM using OpenAI and Pinecone - Clean version](youtube-videos-rag-clean.ipynb)
 
 # Resources/Credits:
 

@@ -87,6 +87,7 @@ voila
 
 - [Youtube video to transcript to RAG on LLM using OpenAI and Pinecone - Tutorial](youtube-videos-rag.ipynb)
 - [Youtube video to transcript to RAG on LLM using OpenAI and Pinecone - Clean version](youtube-videos-rag-clean.ipynb)
+- [Building a RAG application using open-source models (Asking questions from a PDF using Llama2)](rag_using_open_source_models/rag_using_open_source_models.ipynb)
 
 # Resources/Credits:
 

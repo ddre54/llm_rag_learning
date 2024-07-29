@@ -50,3 +50,7 @@ the model programmatically with `python`
 ## Further Reads
 
 - [DSPy - Prompt Optimization](https://github.com/stanfordnlp/dspy)
+
+## Credits
+
+- [Building a RAG application using open-source models (Asking questions from a PDF using Llama2)](https://www.youtube.com/watch?v=HRvyei7vFSM)

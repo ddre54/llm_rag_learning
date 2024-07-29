@@ -9,7 +9,7 @@ Activate the environment:
 pyenv install 3.12.2
 pyenv virtualenv 3.12.2 llm_rag_learning
 pyenv activate llm_rag_learning
-pyenv deactive
+pyenv deactivate
 # You can also use `pyenv local`
 ```
 
